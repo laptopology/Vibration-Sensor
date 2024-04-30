@@ -1,1 +1,3 @@
-# Vibration-Sensor
+ESPHome Vibration-Sensor
+
+With Delay Adjustments
